@@ -1,13 +1,21 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import Product from "../Product/Product";
 
 const Products = () => {
+  const [products, setProducts] = useState([]);
+  useEffect(() => {
+    fetch("./allProducts.json")
+      .then((res) => res.json())
+      .then((data) => setProducts(data));
+  }, []);
   return (
-    <div className="w-11/12 mx-auto mt-80 border">
-      <h2 className="text-center text-2xl font-semibold mb-6">
+    <div className="mt-80">
+      <h2 className="text-center text-2xl font-semibold mb-8 ">
         Explore Cutting-Edge Gadgets
       </h2>
-      <div className="flex m-4 gap-4">
-        <div className="menu w-44 border gap-4 p-2 rounded-lg">
+
+      <div className="flex w-11/12 mx-auto h-[410px] ">
+        <div className="menu w-44 border gap-4 p-2 rounded-lg mt-[11px]">
           <button className="p-2 bg-[#9538E2] rounded-lg text-white">
             All Product
           </button>
@@ -30,17 +38,11 @@ const Products = () => {
             All Product
           </button>
         </div>
-        <div className="border p-3 shadow-md rounded-lg">
-          <img
-            className="rounded-lg border p-2 bg-[#D9D9D9]"
-            src="https://i.ibb.co/CWWwdGn/stand.png"
-            alt=""
-          />
-          <h4 className="mt-4 mb-3 font-bold">Dell XPS 13</h4>
-          <p className="mt-4 mb-4">Price: 99.99k</p>
-          <button className="btn btn-outline btn-xs text-[#9538E2] mb-5">
-            View Details
-          </button>
+
+        <div className="grid grid-cols-1 md:grid-col-2 lg:grid-cols-3">
+          {products.map((product) => (
+            <Product product={product} key={product.product_id}></Product>
+          ))}
         </div>
       </div>
     </div>

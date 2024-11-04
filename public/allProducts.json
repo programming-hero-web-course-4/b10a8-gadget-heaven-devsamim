@@ -2,7 +2,7 @@
   {
       "product_id": "101",
       "product_title": "Gaming Laptop",
-      "product_image": "https://m.media-amazon.com/images/I/71ZZMZy7M2L._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/WBzvz0t/Gaming-Laptop.webp",
       "category": "laptop",
       "price": 1299.99,
       "description": "Powerful gaming laptop with high-performance graphics.",
@@ -17,7 +17,7 @@
   {
       "product_id": "102",
       "product_title": "Smartwatch Series 6",
-      "product_image": "https://m.media-amazon.com/images/I/61O-cpUo7gL._AC_SL1000_.jpg",
+      "product_image": "https://i.ibb.co/3SQ9Rtg/smartwatch-sri-6.webp",
       "category": "smartwatch",
       "price": 199.99,
       "description": "Track your fitness and receive notifications directly on your wrist.",
@@ -32,7 +32,7 @@
   {
       "product_id": "103",
       "product_title": "iPhone 14 Pro",
-      "product_image": "https://m.media-amazon.com/images/I/71QO-DTRqQL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/Fxk1nfy/i-Phone-14-Pro.png",
       "category": "iphone",
       "price": 999.99,
       "description": "The latest iPhone with cutting-edge technology and features.",
@@ -47,7 +47,7 @@
   {
       "product_id": "104",
       "product_title": "MacBook Air M2",
-      "product_image": "https://m.media-amazon.com/images/I/71C3LYOU0cL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/TB3TYLG/mackbook-air-m2.jpg",
       "category": "mackbook",
       "price": 1199.99,
       "description": "Lightweight and powerful MacBook with M2 chip.",
@@ -62,7 +62,7 @@
   {
       "product_id": "105",
       "product_title": "Wireless Bluetooth Headphones",
-      "product_image": "https://m.media-amazon.com/images/I/71eZghB1q8L._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/6FK3TrV/wireless-bluetooth.jpg",
       "category": "accessories",
       "price": 59.99,
       "description": "High-quality wireless headphones with noise cancellation.",
@@ -77,7 +77,7 @@
   {
       "product_id": "106",
       "product_title": "Portable Charger",
-      "product_image": "https://m.media-amazon.com/images/I/71Uw8KpInBL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/7G4yyjP/portable-charger.png",
       "category": "accessories",
       "price": 25.99,
       "description": "Compact portable charger with fast charging capabilities.",
@@ -92,7 +92,7 @@
   {
       "product_id": "107",
       "product_title": "Smartwatch Fitness Tracker",
-      "product_image": "https://m.media-amazon.com/images/I/61Ak6RxwN0L._AC_SL1000_.jpg",
+      "product_image": "https://i.ibb.co/BBfp4hG/smart-watch-traker.png",
       "category": "smartwatch",
       "price": 49.99,
       "description": "Affordable smartwatch with essential fitness tracking features.",
@@ -107,7 +107,7 @@
   {
       "product_id": "108",
       "product_title": "Laptop Backpack",
-      "product_image": "https://m.media-amazon.com/images/I/81A5gBrfhjL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/jRyr4Y4/laptoip-backpack.png",
       "category": "accessories",
       "price": 39.99,
       "description": "Stylish and functional backpack for laptops.",
@@ -122,7 +122,7 @@
   {
       "product_id": "109",
       "product_title": "iPhone 13 Case",
-      "product_image": "https://m.media-amazon.com/images/I/61gDj55OInL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/LZvwVSp/iphone-case.png",
       "category": "accessories",
       "price": 19.99,
       "description": "Durable and stylish case for iPhone 13.",
@@ -137,7 +137,7 @@
   {
       "product_id": "110",
       "product_title": "Laptop Stand",
-      "product_image": "https://m.media-amazon.com/images/I/71mU8d19-OL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/CWWwdGn/stand.png",
       "category": "accessories",
       "price": 29.99,
       "description": "Ergonomic laptop stand for better posture and airflow.",
@@ -152,7 +152,7 @@
   {
       "product_id": "111",
       "product_title": "iPhone 14 Case",
-      "product_image": "https://m.media-amazon.com/images/I/71XtG1cMzLL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/9VJLtpG/iphone-case2.png",
       "category": "accessories",
       "price": 24.99,
       "description": "Sleek and protective case for iPhone 14.",
@@ -167,7 +167,7 @@
   {
       "product_id": "112",
       "product_title": "Wireless Gaming Mouse",
-      "product_image": "https://m.media-amazon.com/images/I/81EcUys4TzL._AC_SL1500_.jpg",
+      "product_image": "https://i.ibb.co/P9LXpZB/Wireless-Gaming-Mouse.png",
       "category": "accessories",
       "price": 49.99,
       "description": "Precision wireless gaming mouse with customizable buttons.",
