@@ -6,7 +6,7 @@ const Products = () => {
       <h2 className="text-center text-2xl font-semibold mb-6">
         Explore Cutting-Edge Gadgets
       </h2>
-      <div className="flex m-4">
+      <div className="flex m-4 gap-4">
         <div className="menu w-44 border gap-4 p-2 rounded-lg">
           <button className="p-2 bg-[#9538E2] rounded-lg text-white">
             All Product
@@ -30,15 +30,15 @@ const Products = () => {
             All Product
           </button>
         </div>
-        <div className="border p-3 ">
+        <div className="border p-3 shadow-md rounded-lg">
           <img
-            className="rounded-lg border p-2"
+            className="rounded-lg border p-2 bg-[#D9D9D9]"
             src="https://i.ibb.co/CWWwdGn/stand.png"
             alt=""
           />
-          <h4>Dell XPS 13</h4>
-          <p>Price: 99.99k</p>
-          <button className="btn btn-outline btn-xs text-[#9538E2]">
+          <h4 className="mt-4 mb-3 font-bold">Dell XPS 13</h4>
+          <p className="mt-4 mb-4">Price: 99.99k</p>
+          <button className="btn btn-outline btn-xs text-[#9538E2] mb-5">
             View Details
           </button>
         </div>
