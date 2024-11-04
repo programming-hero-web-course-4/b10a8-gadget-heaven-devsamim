@@ -1,0 +1,182 @@
+[
+  {
+      "product_id": "101",
+      "product_title": "Gaming Laptop",
+      "product_image": "https://m.media-amazon.com/images/I/71ZZMZy7M2L._AC_SL1500_.jpg",
+      "category": "laptop",
+      "price": 1299.99,
+      "description": "Powerful gaming laptop with high-performance graphics.",
+      "Specification": [
+          "Processor: Intel i7",
+          "RAM: 16GB",
+          "Storage: 1TB SSD"
+      ],
+      "availability": true,
+      "rating": 4.6
+  },
+  {
+      "product_id": "102",
+      "product_title": "Smartwatch Series 6",
+      "product_image": "https://m.media-amazon.com/images/I/61O-cpUo7gL._AC_SL1000_.jpg",
+      "category": "smartwatch",
+      "price": 199.99,
+      "description": "Track your fitness and receive notifications directly on your wrist.",
+      "Specification": [
+          "Water Resistance: Up to 50m",
+          "Battery Life: 18 hours",
+          "Compatibility: iOS and Android"
+      ],
+      "availability": false,
+      "rating": 4.7
+  },
+  {
+      "product_id": "103",
+      "product_title": "iPhone 14 Pro",
+      "product_image": "https://m.media-amazon.com/images/I/71QO-DTRqQL._AC_SL1500_.jpg",
+      "category": "iphone",
+      "price": 999.99,
+      "description": "The latest iPhone with cutting-edge technology and features.",
+      "Specification": [
+          "Display: 6.1 inches Super Retina XDR",
+          "Camera: Triple 12MP system",
+          "Battery Life: Up to 23 hours talk time"
+      ],
+      "availability": true,
+      "rating": 4.9
+  },
+  {
+      "product_id": "104",
+      "product_title": "MacBook Air M2",
+      "product_image": "https://m.media-amazon.com/images/I/71C3LYOU0cL._AC_SL1500_.jpg",
+      "category": "mackbook",
+      "price": 1199.99,
+      "description": "Lightweight and powerful MacBook with M2 chip.",
+      "Specification": [
+          "Display: 13.6 inches Retina",
+          "RAM: 8GB",
+          "Storage: 256GB SSD"
+      ],
+      "availability": true,
+      "rating": 4.8
+  },
+  {
+      "product_id": "105",
+      "product_title": "Wireless Bluetooth Headphones",
+      "product_image": "https://m.media-amazon.com/images/I/71eZghB1q8L._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 59.99,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "Specification": [
+          "Battery Life: 20 hours",
+          "Bluetooth Version: 5.0",
+          "Weight: 250g"
+      ],
+      "availability": true,
+      "rating": 4.5
+  },
+  {
+      "product_id": "106",
+      "product_title": "Portable Charger",
+      "product_image": "https://m.media-amazon.com/images/I/71Uw8KpInBL._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 25.99,
+      "description": "Compact portable charger with fast charging capabilities.",
+      "Specification": [
+          "Capacity: 10000mAh",
+          "USB Ports: 2",
+          "Weight: 200g"
+      ],
+      "availability": true,
+      "rating": 4.3
+  },
+  {
+      "product_id": "107",
+      "product_title": "Smartwatch Fitness Tracker",
+      "product_image": "https://m.media-amazon.com/images/I/61Ak6RxwN0L._AC_SL1000_.jpg",
+      "category": "smartwatch",
+      "price": 49.99,
+      "description": "Affordable smartwatch with essential fitness tracking features.",
+      "Specification": [
+          "Heart Rate Monitor: Yes",
+          "Battery Life: 7 days",
+          "Water Resistant: Yes"
+      ],
+      "availability": true,
+      "rating": 4.0
+  },
+  {
+      "product_id": "108",
+      "product_title": "Laptop Backpack",
+      "product_image": "https://m.media-amazon.com/images/I/81A5gBrfhjL._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 39.99,
+      "description": "Stylish and functional backpack for laptops.",
+      "Specification": [
+          "Capacity: Up to 15.6 inches",
+          "Material: Water-resistant fabric",
+          "Pockets: Multiple storage compartments"
+      ],
+      "availability": true,
+      "rating": 4.5
+  },
+  {
+      "product_id": "109",
+      "product_title": "iPhone 13 Case",
+      "product_image": "https://m.media-amazon.com/images/I/61gDj55OInL._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 19.99,
+      "description": "Durable and stylish case for iPhone 13.",
+      "Specification": [
+          "Material: TPU",
+          "Features: Shockproof and anti-scratch",
+          "Compatibility: iPhone 13"
+      ],
+      "availability": true,
+      "rating": 4.2
+  },
+  {
+      "product_id": "110",
+      "product_title": "Laptop Stand",
+      "product_image": "https://m.media-amazon.com/images/I/71mU8d19-OL._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 29.99,
+      "description": "Ergonomic laptop stand for better posture and airflow.",
+      "Specification": [
+          "Material: Aluminum",
+          "Adjustable Height: Yes",
+          "Weight: 700g"
+      ],
+      "availability": true,
+      "rating": 4.4
+  },
+  {
+      "product_id": "111",
+      "product_title": "iPhone 14 Case",
+      "product_image": "https://m.media-amazon.com/images/I/71XtG1cMzLL._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 24.99,
+      "description": "Sleek and protective case for iPhone 14.",
+      "Specification": [
+          "Material: Silicone",
+          "Features: Lightweight and durable",
+          "Compatibility: iPhone 14"
+      ],
+      "availability": true,
+      "rating": 4.6
+  },
+  {
+      "product_id": "112",
+      "product_title": "Wireless Gaming Mouse",
+      "product_image": "https://m.media-amazon.com/images/I/81EcUys4TzL._AC_SL1500_.jpg",
+      "category": "accessories",
+      "price": 49.99,
+      "description": "Precision wireless gaming mouse with customizable buttons.",
+      "Specification": [
+          "DPI: 16000",
+          "Battery Life: 50 hours",
+          "Connectivity: Bluetooth and USB"
+      ],
+      "availability": true,
+      "rating": 4.7
+  }
+]
