@@ -1,182 +1,134 @@
 [
   {
-      "product_id": "101",
-      "product_title": "Gaming Laptop",
-      "product_image": "https://i.ibb.co/WBzvz0t/Gaming-Laptop.webp",
-      "category": "laptop",
-      "price": 1299.99,
-      "description": "Powerful gaming laptop with high-performance graphics.",
-      "Specification": [
-          "Processor: Intel i7",
-          "RAM: 16GB",
-          "Storage: 1TB SSD"
-      ],
-      "availability": true,
-      "rating": 4.6
+    "product_id": 101,
+    "product_title": "Gaming Laptop",
+    "product_image": "https://i.ibb.co/WBzvz0t/Gaming-Laptop.webp",
+    "category": "laptop",
+    "price": 1299.99,
+    "description": "Powerful gaming laptop with high-performance graphics.",
+    "Specification": ["Processor: Intel i7", "RAM: 16GB", "Storage: 1TB SSD"],
+    "availability": true,
+    "rating": 4.6
   },
   {
-      "product_id": "102",
-      "product_title": "Smartwatch Series 6",
-      "product_image": "https://i.ibb.co/3SQ9Rtg/smartwatch-sri-6.webp",
-      "category": "smartwatch",
-      "price": 199.99,
-      "description": "Track your fitness and receive notifications directly on your wrist.",
-      "Specification": [
-          "Water Resistance: Up to 50m",
-          "Battery Life: 18 hours",
-          "Compatibility: iOS and Android"
-      ],
-      "availability": false,
-      "rating": 4.7
+    "product_id": 102,
+    "product_title": "Smartwatch Series 6",
+    "product_image": "https://i.ibb.co/3SQ9Rtg/smartwatch-sri-6.webp",
+    "category": "smartwatch",
+    "price": 199.99,
+    "description": "Track your fitness and receive notifications directly on your wrist.",
+    "Specification": [
+      "Water Resistance: Up to 50m",
+      "Battery Life: 18 hours",
+      "Compatibility: iOS and Android"
+    ],
+    "availability": false,
+    "rating": 4.7
   },
   {
-      "product_id": "103",
-      "product_title": "iPhone 14 Pro",
-      "product_image": "https://i.ibb.co/Fxk1nfy/i-Phone-14-Pro.png",
-      "category": "iphone",
-      "price": 999.99,
-      "description": "The latest iPhone with cutting-edge technology and features.",
-      "Specification": [
-          "Display: 6.1 inches Super Retina XDR",
-          "Camera: Triple 12MP system",
-          "Battery Life: Up to 23 hours talk time"
-      ],
-      "availability": true,
-      "rating": 4.9
+    "product_id": 103,
+    "product_title": "iPhone 14 Pro",
+    "product_image": "https://i.ibb.co/Fxk1nfy/i-Phone-14-Pro.png",
+    "category": "iphone",
+    "price": 999.99,
+    "description": "The latest iPhone with cutting-edge technology and features.",
+    "Specification": [
+      "Display: 6.1 inches Super Retina XDR",
+      "Camera: Triple 12MP system",
+      "Battery Life: Up to 23 hours talk time"
+    ],
+    "availability": true,
+    "rating": 4.9
   },
   {
-      "product_id": "104",
-      "product_title": "MacBook Air M2",
-      "product_image": "https://i.ibb.co/TB3TYLG/mackbook-air-m2.jpg",
-      "category": "mackbook",
-      "price": 1199.99,
-      "description": "Lightweight and powerful MacBook with M2 chip.",
-      "Specification": [
-          "Display: 13.6 inches Retina",
-          "RAM: 8GB",
-          "Storage: 256GB SSD"
-      ],
-      "availability": true,
-      "rating": 4.8
+    "product_id": 104,
+    "product_title": "MacBook Air M2",
+    "product_image": "https://i.ibb.co/TB3TYLG/mackbook-air-m2.jpg",
+    "category": "mackbook",
+    "price": 1199.99,
+    "description": "Lightweight and powerful MacBook with M2 chip.",
+    "Specification": [
+      "Display: 13.6 inches Retina",
+      "RAM: 8GB",
+      "Storage: 256GB SSD"
+    ],
+    "availability": true,
+    "rating": 4.8
   },
   {
-      "product_id": "105",
-      "product_title": "Wireless Bluetooth Headphones",
-      "product_image": "https://i.ibb.co/6FK3TrV/wireless-bluetooth.jpg",
-      "category": "accessories",
-      "price": 59.99,
-      "description": "High-quality wireless headphones with noise cancellation.",
-      "Specification": [
-          "Battery Life: 20 hours",
-          "Bluetooth Version: 5.0",
-          "Weight: 250g"
-      ],
-      "availability": true,
-      "rating": 4.5
+    "product_id": 105,
+    "product_title": "Wireless Bluetooth Headphones",
+    "product_image": "https://i.ibb.co/6FK3TrV/wireless-bluetooth.jpg",
+    "category": "accessories",
+    "price": 59.99,
+    "description": "High-quality wireless headphones with noise cancellation.",
+    "Specification": [
+      "Battery Life: 20 hours",
+      "Bluetooth Version: 5.0",
+      "Weight: 250g"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+
+  {
+    "product_id": 106,
+    "product_title": "Gaming Monitor 27-inch",
+    "product_image": "https://i.ibb.co/s9NfJsP/gaming-monitor.jpg",
+    "category": "monitor",
+    "price": 349.99,
+    "description": "27-inch ultra-fast gaming monitor with 144Hz refresh rate.",
+    "Specification": [
+      "Resolution: 2560x1440",
+      "Refresh Rate: 144Hz",
+      "Response Time: 1ms"
+    ],
+    "availability": true,
+    "rating": 4.8
   },
   {
-      "product_id": "106",
-      "product_title": "Portable Charger",
-      "product_image": "https://i.ibb.co/7G4yyjP/portable-charger.png",
-      "category": "accessories",
-      "price": 25.99,
-      "description": "Compact portable charger with fast charging capabilities.",
-      "Specification": [
-          "Capacity: 10000mAh",
-          "USB Ports: 2",
-          "Weight: 200g"
-      ],
-      "availability": true,
-      "rating": 4.3
+    "product_id": 107,
+    "product_title": "Apple AirPods Pro 2nd Gen",
+    "product_image": "https://i.ibb.co/mRzySx3/Apple-air.jpg",
+    "category": "accessories",
+    "price": 249.99,
+    "description": "Active noise cancellation and immersive sound for a premium listening experience.",
+    "Specification": [
+      "Battery Life: 6 hours (ANC on)",
+      "Water Resistance: IPX4",
+      "Compatibility: iOS, Android"
+    ],
+    "availability": true,
+    "rating": 4.9
   },
   {
-      "product_id": "107",
-      "product_title": "Smartwatch Fitness Tracker",
-      "product_image": "https://i.ibb.co/BBfp4hG/smart-watch-traker.png",
-      "category": "smartwatch",
-      "price": 49.99,
-      "description": "Affordable smartwatch with essential fitness tracking features.",
-      "Specification": [
-          "Heart Rate Monitor: Yes",
-          "Battery Life: 7 days",
-          "Water Resistant: Yes"
-      ],
-      "availability": true,
-      "rating": 4.0
+    "product_id": 108,
+    "product_title": "Sony PlayStation 5",
+    "product_image": "https://i.ibb.co/N1YRLvP/sony-play.jpg",
+    "category": "gaming-console",
+    "price": 499.99,
+    "description": "Next-gen gaming console with ray tracing and fast load times.",
+    "Specification": [
+      "Processor: Custom AMD CPU",
+      "Storage: 825GB SSD",
+      "Resolution: 4K, 120Hz"
+    ],
+    "availability": true,
+    "rating": 4.9
   },
   {
-      "product_id": "108",
-      "product_title": "Laptop Backpack",
-      "product_image": "https://i.ibb.co/jRyr4Y4/laptoip-backpack.png",
-      "category": "accessories",
-      "price": 39.99,
-      "description": "Stylish and functional backpack for laptops.",
-      "Specification": [
-          "Capacity: Up to 15.6 inches",
-          "Material: Water-resistant fabric",
-          "Pockets: Multiple storage compartments"
-      ],
-      "availability": true,
-      "rating": 4.5
-  },
-  {
-      "product_id": "109",
-      "product_title": "iPhone 13 Case",
-      "product_image": "https://i.ibb.co/LZvwVSp/iphone-case.png",
-      "category": "accessories",
-      "price": 19.99,
-      "description": "Durable and stylish case for iPhone 13.",
-      "Specification": [
-          "Material: TPU",
-          "Features: Shockproof and anti-scratch",
-          "Compatibility: iPhone 13"
-      ],
-      "availability": true,
-      "rating": 4.2
-  },
-  {
-      "product_id": "110",
-      "product_title": "Laptop Stand",
-      "product_image": "https://i.ibb.co/CWWwdGn/stand.png",
-      "category": "accessories",
-      "price": 29.99,
-      "description": "Ergonomic laptop stand for better posture and airflow.",
-      "Specification": [
-          "Material: Aluminum",
-          "Adjustable Height: Yes",
-          "Weight: 700g"
-      ],
-      "availability": true,
-      "rating": 4.4
-  },
-  {
-      "product_id": "111",
-      "product_title": "iPhone 14 Case",
-      "product_image": "https://i.ibb.co/9VJLtpG/iphone-case2.png",
-      "category": "accessories",
-      "price": 24.99,
-      "description": "Sleek and protective case for iPhone 14.",
-      "Specification": [
-          "Material: Silicone",
-          "Features: Lightweight and durable",
-          "Compatibility: iPhone 14"
-      ],
-      "availability": true,
-      "rating": 4.6
-  },
-  {
-      "product_id": "112",
-      "product_title": "Wireless Gaming Mouse",
-      "product_image": "https://i.ibb.co/P9LXpZB/Wireless-Gaming-Mouse.png",
-      "category": "accessories",
-      "price": 49.99,
-      "description": "Precision wireless gaming mouse with customizable buttons.",
-      "Specification": [
-          "DPI: 16000",
-          "Battery Life: 50 hours",
-          "Connectivity: Bluetooth and USB"
-      ],
-      "availability": true,
-      "rating": 4.7
+    "product_id": 109,
+    "product_title": "Samsung Galaxy S23 Ultra",
+    "product_image": "https://i.ibb.co/jZnxG9p/samsung-s23.jpg",
+    "category": "smartphone",
+    "price": 1199.99,
+    "description": "Premium flagship smartphone with a 200MP camera and a stunning AMOLED display.",
+    "Specification": [
+      "Display: 6.8 inches Dynamic AMOLED 2X",
+      "Camera: 200MP Quad Camera System",
+      "Battery Life: 5000mAh"
+    ],
+    "availability": true,
+    "rating": 4.8
   }
 ]

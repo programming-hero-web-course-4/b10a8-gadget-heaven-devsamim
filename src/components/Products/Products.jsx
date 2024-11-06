@@ -17,21 +17,7 @@ const Products = () => {
       <div className="flex w-11/12 mx-auto h-[410px] ">
         <div className="menu w-44 border gap-4 p-2 rounded-lg mt-[11px]">
           <button className="p-2 bg-[#9538E2] rounded-lg text-white">
-            All Product
-          </button>
-          <button className="p-2 bg-[#09080F0D] rounded-lg text-[#09080F99] hover:bg-[#9538E2] hover:text-white">
-            All Product
-          </button>
-          <button className="p-2 bg-[#09080F0D] rounded-lg text-[#09080F99] hover:bg-[#9538E2] hover:text-white">
-            All Product
-          </button>
-          <button className="p-2 bg-[#09080F0D] rounded-lg text-[#09080F99] hover:bg-[#9538E2] hover:text-white">
-            All Product
-          </button>
-          <button className="p-2 bg-[#09080F0D] rounded-lg text-[#09080F99] hover:bg-[#9538E2] hover:text-white">
-            All Product
-          </button>
-          <button className="p-2 bg-[#09080F0D] rounded-lg text-[#09080F99] hover:bg-[#9538E2] hover:text-white">
+            {/* {products.category} */}
             All Product
           </button>
           <button className="p-2 bg-[#09080F0D] rounded-lg text-[#09080F99] hover:bg-[#9538E2] hover:text-white">
